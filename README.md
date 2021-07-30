@@ -1,24 +1,14 @@
 # vue-todos
 
-## Project setup
+## Configuramos las dependencias del proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilamos y desplegamos el proyecto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
+### Configuración personalizada
 See [Configuration Reference](https://cli.vuejs.org/config/).
